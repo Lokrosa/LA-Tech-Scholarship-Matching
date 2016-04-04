@@ -1,0 +1,46 @@
+
+.Info{
+	position:absolute;
+	top:150px;
+	left:100px;
+	background-color: lightgrey;
+    color: black;
+    margin: 15px;
+    padding: 20px;
+	
+}
+
+table main th {
+   
+    background-color: #2F394D;
+    color: #FFFFFF;
+    padding: 20px;
+}
+
+
+table th{
+	text-align:center;
+	width:200px;
+	height:50px;
+	border:1px solid black;
+	
+	
+}
+
+table td {
+	border:1px solid black;
+	text-align:center;
+	border:1px solid black;
+}
+
+h1{
+	position:absolute;
+	top:50px;
+	left:100px;
+}
+
+#header{
+	background-color: #2F394D;
+	color:white;
+}
+

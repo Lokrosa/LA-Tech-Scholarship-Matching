@@ -1,0 +1,36 @@
+h1{
+	position:absolute;
+	top:30px;
+	right:500px;
+}
+
+.button {
+background-color: #000058;
+border: none;
+color: white;
+padding: 10px 20px;
+position:absolute;
+right:950px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 20px;
+cursor: pointer;
+}
+
+.list_of_criteria label{
+	float:left;
+	width:200px;
+	
+}
+
+fieldset.list_of_criteria{
+	width:500px;
+	
+
+}
+
+fieldset.Information{
+	width:500px;
+	
+}
